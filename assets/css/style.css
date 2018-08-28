@@ -1,0 +1,87 @@
+.bgteal {
+    background-color: #4aaaa5;
+}
+
+.bgdg {
+    background-color: #666666;
+}
+
+.textwhite {
+    color: #ffffff;
+}
+
+.textteal {
+    color: #4aaaa5;
+}
+
+.bgwhite {
+    background-color: #ffffff;
+}
+
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    background-image: url("../images/bg.png");
+    color: #777777;
+    font-size: 18px;
+}
+/* 
+.fullheader {
+    width: 100%;
+    padding: 0;
+} */
+
+/* .headerblock {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    right: 0;
+    height: 96px;
+    z-index: -1;
+} */
+.headerfix {
+    padding: 0;
+}
+
+.headertext {
+    margin: 0;
+    height: 100%;
+    padding: 20px 30px;
+    }
+
+/* ul {
+    /* position: absolute;
+    right: 0;
+    */
+
+
+.contents {
+    margin-top: 40px;
+    padding-bottom: 20px;
+}
+
+.profile {
+    float: left;;
+    height: 300px;
+    width: 300px;
+}
+
+.footer {
+    position: absolute;
+    left:0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    font-size: 12px;
+    padding-top: 10px;
+    margin: 0;
+}
+
+.footbox {
+    height: 10px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    bottom:40px;
+    margin: 0;
+}
